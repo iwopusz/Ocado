@@ -7,8 +7,8 @@
 
 	Program is starting with getFiles() method and then schedule maker method is initialized.
 	I was experimenting with different priorities for orders and so, four different sorting methods and
-    	schedule makers were made. I'm using only one, with orders sorted by completion time deadline, which is the most
-     	efficient according to total number of orders completed and total value of those.
+	schedule makers were made. I'm using only one, with orders sorted by completion time deadline, which is the most
+	efficient according to total number of orders completed and total value of those.
 	Each method is using 1 of 4 sorting methods defined.
 	Scanner is used for user's absolute path inputs and those paths are assigned to String variables.
 	Then data from both .json files is pulled using two different methods for each file.
